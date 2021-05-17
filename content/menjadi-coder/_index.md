@@ -7,7 +7,4 @@ chapter: true
 
 # Menjadi Coder yang Hebat
 
-Bagian ini akan menjawab pertanyaan berikut.
-1. Siapa yang disebut coder?
-2. Apa itu coding?
-3. Bagaimana cara berpikir seperti coder?
+Pada bagian ini, kalian akan berkenalan dengan istilah coder, coding dan cara berpikir seperti coder.
